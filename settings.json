@@ -9,7 +9,7 @@
     "ip": "Shiro_Kuma02.aternos.me",
     "port": 23726,
     "version": "1.21",
-    "try-creative": yes
+    "try-creative": true
   },
   "position": {
     "enabled": true,
