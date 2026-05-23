@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MegaChan",
+    "username": "PuanMatikanMic",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "Shiro_Kuma02.aternos.me",
     "port": 23726,
     "version": "1.21",
-    "try-creative": false
+    "try-creative": yes
   },
   "position": {
     "enabled": true,
